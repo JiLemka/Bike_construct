@@ -1,0 +1,8 @@
+C:/Users/mi/Desktop/Kurs_v03/out/build/x64-Debug (по умолчанию)/CMakeFiles/install/local.dir
+C:/Users/mi/Desktop/Kurs_v03/out/build/x64-Debug (по умолчанию)/CMakeFiles/install.dir
+C:/Users/mi/Desktop/Kurs_v03/out/build/x64-Debug (по умолчанию)/CMakeFiles/edit_cache.dir
+C:/Users/mi/Desktop/Kurs_v03/out/build/x64-Debug (по умолчанию)/CMakeFiles/bike.dir
+C:/Users/mi/Desktop/Kurs_v03/out/build/x64-Debug (по умолчанию)/CMakeFiles/rebuild_cache.dir
+C:/Users/mi/Desktop/Kurs_v03/out/build/x64-Debug (по умолчанию)/CMakeFiles/list_install_components.dir
+C:/Users/mi/Desktop/Kurs_v03/out/build/x64-Debug (по умолчанию)/CMakeFiles/bike_autogen_timestamp_deps.dir
+C:/Users/mi/Desktop/Kurs_v03/out/build/x64-Debug (по умолчанию)/CMakeFiles/bike_autogen.dir

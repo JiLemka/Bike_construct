@@ -1,0 +1,94 @@
+{
+	"BUILD_DIR" : "C:/Users/mi/Desktop/Kurs_v03/out/build/x64-Debug/bike_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/mi/Desktop/Kurs_v03/out/build/x64-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/mi/Desktop/Kurs_v03/out/build/x64-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/mi/Desktop/Kurs_v03",
+	"CMAKE_EXECUTABLE" : "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe",
+	"CMAKE_SOURCE_DIR" : "C:/Users/mi/Desktop/Kurs_v03",
+	"DEP_FILE" : "C:/Users/mi/Desktop/Kurs_v03/out/build/x64-Debug/bike_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "bike_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"C:/Users/mi/Desktop/Kurs_v03/src/accessory.h",
+			"MU",
+			"UVLADIE3JM/moc_accessory.cpp"
+		],
+		[
+			"C:/Users/mi/Desktop/Kurs_v03/src/basket.h",
+			"MU",
+			"UVLADIE3JM/moc_basket.cpp"
+		],
+		[
+			"C:/Users/mi/Desktop/Kurs_v03/src/const.h",
+			"MU",
+			"UVLADIE3JM/moc_const.cpp"
+		],
+		[
+			"C:/Users/mi/Desktop/Kurs_v03/src/database.h",
+			"MU",
+			"UVLADIE3JM/moc_database.cpp"
+		],
+		[
+			"C:/Users/mi/Desktop/Kurs_v03/src/functions.h",
+			"MU",
+			"UVLADIE3JM/moc_functions.cpp"
+		],
+		[
+			"C:/Users/mi/Desktop/Kurs_v03/src/mainwindow.h",
+			"MU",
+			"UVLADIE3JM/moc_mainwindow.cpp"
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "C:/Users/mi/Desktop/Kurs_v03/out/build/x64-Debug/bike_autogen/include",
+	"MOC_COMPILATION_FILE" : "C:/Users/mi/Desktop/Kurs_v03/out/build/x64-Debug/bike_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_GUI_LIB", "QT_SQL_LIB", "QT_WIDGETS_LIB", "WIN32" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"C:/Users/mi/Desktop/Kurs_v03/out/build/x64-Debug",
+		"C:/Qt/5.15.2/mingw81_64/include",
+		"C:/Qt/5.15.2/mingw81_64/include/QtWidgets",
+		"C:/Qt/5.15.2/mingw81_64/include/QtGui",
+		"C:/Qt/5.15.2/mingw81_64/include/QtANGLE",
+		"C:/Qt/5.15.2/mingw81_64/include/QtCore",
+		"C:/Qt/5.15.2/mingw81_64/mkspecs/win32-g++",
+		"C:/Qt/5.15.2/mingw81_64/include/QtSql"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : [],
+	"MOC_PREDEFS_FILE" : "",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "C:/Users/mi/Desktop/Kurs_v03/out/build/x64-Debug/CMakeFiles/bike_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "C:/Qt/5.15.2/mingw81_64/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "C:/Qt/5.15.2/mingw81_64/bin/uic.exe",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "C:/Users/mi/Desktop/Kurs_v03/out/build/x64-Debug/CMakeFiles/bike_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[ "C:/Users/mi/Desktop/Kurs_v03/src/accessory.cpp", "MU" ],
+		[ "C:/Users/mi/Desktop/Kurs_v03/src/basket.cpp", "MU" ],
+		[ "C:/Users/mi/Desktop/Kurs_v03/src/database.cpp", "MU" ],
+		[ "C:/Users/mi/Desktop/Kurs_v03/src/functions.cpp", "MU" ],
+		[ "C:/Users/mi/Desktop/Kurs_v03/src/main.cpp", "MU" ],
+		[ "C:/Users/mi/Desktop/Kurs_v03/src/mainwindow.cpp", "MU" ]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}

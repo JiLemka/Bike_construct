@@ -1,0 +1,9 @@
+# ninja log v5
+3	468	633837066	bike_autogen/timestamp	5962f34e51c6f533
+488	2037	633837068	CMakeFiles/bike.dir/src/functions.cpp.obj	4e700c60db9d5e95
+472	2481	633837068	CMakeFiles/bike.dir/src/basket.cpp.obj	eefd977ea8667089
+482	2551	633837068	CMakeFiles/bike.dir/src/accessory.cpp.obj	e07f012e3f39319b
+477	2668	633837068	CMakeFiles/bike.dir/src/database.cpp.obj	9b8d0cc8c1f168bf
+468	3208	633837069	CMakeFiles/bike.dir/bike_autogen/mocs_compilation.cpp.obj	1dd32fe1f38ca513
+494	3256	633837069	CMakeFiles/bike.dir/src/main.cpp.obj	490d105c403364bb
+499	3896	633837070	CMakeFiles/bike.dir/src/mainwindow.cpp.obj	2657a9010a0575c9
